@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Embedded systems](https://img.shields.io/badge/-Embedded_systems-05122A?style=flat&logo=Embedde_Systems)&nbsp;
-![C](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
