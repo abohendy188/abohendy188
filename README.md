@@ -19,7 +19,8 @@
 
 ### Connect with Me :
 
-<a href="(https://www.linkedin.com/in/abdelrahman-abohendy-121252255)" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Abohendy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-abohendy-121252255" target="_blank"><img src="https://img.shields.io/badge/Abdelrahman%20Abohendy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
