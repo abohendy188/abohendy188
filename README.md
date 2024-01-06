@@ -12,8 +12,7 @@
 
 - 🚃 I'm an electronics and electrical communications engineer.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, C, Matlab, Python, and anything related to web development.
-- ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start with a cup of tea.
+- 💬 Ask me about my experience with Electronics, C++, C, Matlab, and Python
 
 
 
